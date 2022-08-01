@@ -1,0 +1,2 @@
+.header{display:flex;justify-content:center;align-items:center;box-shadow:0 5px 60px #2e2e2e;background-color:#eee;height:50px;margin-bottom:30px}.header__nav-list{display:flex;grid-gap:40px;gap:40px;font-size:20px;font-weight:700}.header__nav-link{text-decoration:none;color:#000;transition:.3s}.header__nav-link:hover,.is-active{-webkit-transform:scale(1.2);transform:scale(1.2)}.is-active{color:#946262}
+/*# sourceMappingURL=main.a1a295ed.chunk.css.map */
